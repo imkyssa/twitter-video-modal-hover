@@ -2,7 +2,7 @@
 // @name         Twitter Video Modal Hover
 // @namespace    http://tampermonkey.net/
 // @version      6.3
-// @description  Twitter videolarını hover ile modal'da büyüt
+// @description  Enlarge Twitter videos in a modal on hover with play/pause controls and time display.
 // @match        https://twitter.com/*
 // @match        https://x.com/*
 // @grant        none
