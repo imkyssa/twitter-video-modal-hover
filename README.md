@@ -7,6 +7,14 @@ A userscript that enhances **Twitter / X** by displaying videos in a **hover-act
 
 ---
 
+## 🪄 Demo
+
+<p align="center">
+  <img src="./demo.gif" alt="Demo Preview" width="900" style="border-radius: 8px; box-shadow: 0 0 10px rgba(0,0,0,0.3);">
+</p>
+
+---
+
 ## ✨ Features
 
 ✅ Canvas-based live mirroring (no `blob:` errors)  
@@ -70,11 +78,3 @@ Most “hover video preview” scripts fail on X because of:
 
 This script solves all of them — by rendering the video onto a canvas overlay in real-time.  
 Effectively, it acts as a **mini mirroring video engine** built on top of Twitter’s player.
-
----
-
-## 🪄 Demo
-
-<p align="center">
-  <img src="./demo.gif" alt="Demo Preview" width="900" style="border-radius: 8px; box-shadow: 0 0 10px rgba(0,0,0,0.3);">
-</p>
