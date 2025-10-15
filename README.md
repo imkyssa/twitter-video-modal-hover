@@ -70,3 +70,9 @@ Most “hover video preview” scripts fail on X because of:
 
 This script solves all of them — by rendering the video onto a canvas overlay in real-time.  
 Effectively, it acts as a **mini mirroring video engine** built on top of Twitter’s player.
+
+---
+
+## 🪄 Demo
+
+![Demo](./demo.gif)
